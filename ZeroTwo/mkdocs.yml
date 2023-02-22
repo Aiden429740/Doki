@@ -1,5 +1,5 @@
 site_name: MkLorum
-site_url: https://github.com
+site_url: https://index.com
 nav:
     - Home: index.md
     - About: about.md
